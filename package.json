@@ -1,0 +1,24 @@
+{
+  "name": "babel-react-base",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m3talsmith/babel-react-base.git"
+  },
+  "author": "Michael Christenson <m3talsmith@gmail.com>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/m3talsmith/babel-react-base/issues"
+  },
+  "homepage": "https://github.com/m3talsmith/babel-react-base#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-sourcemaps": "^2.0.0-alpha",
+    "require-dir": "^0.3.0"
+  }
+}
